@@ -1,3 +1,16 @@
+# ⚠️ 项目状态说明（重要）
+
+> **本 Magisk 模块已停止维护，不再更新。**  
+> 请使用新的统一模块项目，功能更完整、兼容性更好。
+
+## ✅ 新模块项目（推荐）
+
+👉 **Universal CA Cert Installer（通用 CA 证书安装器）**  
+🔗 https://github.com/pjy02/universal-cacert-installer
+
+后续 Android 新版本适配、问题修复与功能更新 **仅在新项目中进行**。
+
+---
 # 通用CA证书安装Magisk模块
 
 ## 📖 项目简介
